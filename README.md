@@ -1,18 +1,18 @@
 ## hi, i'm kafka 👋
 
-First-year Cybersecurity & CS student who likes taking things apart to see how they break.
+First-year Cybersecurity & CS student and aspiring security / AI researcher who likes taking things apart to see how they break.
 
 ```
 $ whoami
-kafka — student, aspiring red teamer, future researcher
+kafka — student, aspiring cybersecurity / AI researcher
 
 $ cat roadmap.txt
-[1] red teaming  →  [2] PhD  →  [3] security / AI research
+[1] hands-on offensive security  →  [2] PhD  →  [3] security / AI research
 ```
 
 ### interests
 
-- **offense** — red teaming, penetration testing
+- **offense** — red teaming, penetration testing (the fun part)
 - **under the hood** — malware analysis, reverse engineering
 - **math that matters** — cryptography
 - **the other side** — defensive / blue team security
@@ -37,7 +37,7 @@ $ cat roadmap.txt
 ### goals
 
 - [ ] OSCP
-- [ ] Land a security internship (red team / pentest)
+- [ ] Land a security / research internship
 - [ ] Publish a write-up or small piece of research
 - [ ] PhD in security / AI security
 
