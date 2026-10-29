@@ -7,7 +7,7 @@ $ whoami
 kafka — student, aspiring cybersecurity / AI researcher
 
 $ cat roadmap.txt
-[1] hands-on offensive security  →  [2] PhD  →  [3] security / AI research
+[1] build foundations  →  [2] PhD  →  [3] security / AI research
 ```
 
 ### interests
