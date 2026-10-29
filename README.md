@@ -1,4 +1,4 @@
-## hi, i'm kafka 👋
+## hello, I am kafka.
 
 First-year Cybersecurity & CS student and aspiring security / AI researcher who likes taking things apart to see how they break.
 
@@ -14,7 +14,7 @@ $ cat roadmap.txt
 
 - **offense** — red teaming, penetration testing (the fun part)
 - **under the hood** — malware analysis, reverse engineering
-- **math that matters** — cryptography
+- **math** — cryptography
 - **the other side** — defensive / blue team security
 - **what's next** — AI security
 
