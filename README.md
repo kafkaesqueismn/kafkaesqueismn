@@ -12,11 +12,11 @@ $ cat roadmap.txt
 
 ### interests
 
-- **offense** — red teaming, penetration testing 
-- **under the hood** — malware analysis, reverse engineering
-- **math** — cryptography
-- **the other side** — defensive / blue team security
-- **what's next** — AI security
+- **offense** - red teaming, penetration testing 
+- **under the hood** - malware analysis, reverse engineering
+- **math** - cryptography
+- **the other side** - defensive / blue team security
+- **what's next** - AI security
 
 ### projects
 
