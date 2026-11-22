@@ -17,28 +17,14 @@ python  rust  scapy  pyside6  tauri  jupyter
 
 ### featured
 
-**[lethe](https://github.com/kafkaesqueismn/lethe)** · *Rust + Tauri*\
+**[lethe](https://github.com/kafkaesqueismn/lethe)** · *Rust + Tauri* · *work in progress*\
 A private messenger designed to have **no user identifiers**: no accounts, phone numbers or usernames. Contacts connect through anonymous one-way queues on relays (SimpleX-style), with Double Ratchet end-to-end encryption, certificate-pinned TLS 1.3, fixed-size padded frames and optional Tor.
 
-```console
-$ cat lethe/status.txt
-stage   early prototype, in active development
-now     rough edges, missing features, breaking changes
-        crypto not yet independently audited
-        not ready for real use yet
-goal    a fully fledged messenger for desktop and mobile
-
-[1] prototype  ← you are here  →  [2] fully fledged app
-```
+- **where it is now:** an early prototype. Expect rough edges, missing features and breaking changes, and the cryptography has not been independently audited, so it is not ready for real use yet.
+- **where it is going:** a fully fledged messenger for desktop and mobile, built on that design.
 
 **[deobfuscator](https://github.com/kafkaesqueismn/deobfuscator)** · *Python, stdlib only*\
-A multi-decoder for CTFs and malware triage: Base64, Base32, hex, URL, ROT13 and single-byte XOR brute force, with a chain mode that peels layered encodings automatically.
-
-```console
-$ python3 deobf.py --chain -f samples/chain_deep.txt
-#1  url -> base64 -> rot13 -> base32   (score 1.00)
-    flag{peel_the_onion_one_layer_at_a_time}
-```
+A multi-decoder for CTFs and malware triage: Base64, Base32, hex, URL, ROT13 and single-byte XOR brute force. Its chain mode peels layered encodings automatically, e.g. `url → base64 → rot13 → base32 → flag{…}`.
 
 ### projects by area
 
